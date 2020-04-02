@@ -1,0 +1,17 @@
+{
+  "name": "sc-demo4",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.3.3",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "@zeit/next-css": "1.0.1",
+    "styled-components": "5.0.1"
+  },
+  "devDependencies": {
+    "@types/styled-components": "5.0.1"
+  }
+}
