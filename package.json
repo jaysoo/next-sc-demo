@@ -2,7 +2,7 @@
   "name": "sc-demo4",
   "version": "0.0.1",
   "scripts": {
-    "start": "next start"
+    "start": "next start -p $PORT"
   },
   "dependencies": {
     "next": "9.3.3",
